@@ -1,1 +1,4 @@
-console.log("Hello World!");
+function calc(){
+  
+    return (2+3);
+}
